@@ -1,0 +1,10 @@
+fastapi[standard]
+streamlit
+langchain
+langchain-experimental
+langchain-google-genai
+google-genai
+pandas
+matplotlib
+seaborn
+python-dotenv
